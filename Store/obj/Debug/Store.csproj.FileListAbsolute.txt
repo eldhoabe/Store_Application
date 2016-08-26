@@ -1,0 +1,6 @@
+E:\WorkShops\Store_Application\Store\bin\Debug\Store.exe.config
+E:\WorkShops\Store_Application\Store\bin\Debug\Store.exe
+E:\WorkShops\Store_Application\Store\bin\Debug\Store.pdb
+E:\WorkShops\Store_Application\Store\obj\Debug\Store.csprojResolveAssemblyReference.cache
+E:\WorkShops\Store_Application\Store\obj\Debug\Store.exe
+E:\WorkShops\Store_Application\Store\obj\Debug\Store.pdb
